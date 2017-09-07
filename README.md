@@ -1,0 +1,1 @@
+This repository contains a simple implementation of a time-space clustering model implemented as a [jupyter](http://jupyter.org/) notebook. See the notebook for more information.
